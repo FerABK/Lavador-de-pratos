@@ -1,1 +1,6 @@
-bin/ 
+*.class
+bin/
+target/
+.metadata/
+.DS_Store
+Thumbs.db
